@@ -1,7 +1,6 @@
 <template>
     <div>
         <div class="Issue">Issue</div>
-        
     </div>
 </template>
 

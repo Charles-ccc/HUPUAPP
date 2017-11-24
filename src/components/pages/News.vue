@@ -15,7 +15,7 @@
                     </li>
                 </ul>
             </div> -->
-            <mt-navbar v-model="selected" >
+            <mt-navbar v-model="selected" v-bind:fixed="true">
                 <mt-tab-item id="1">NBA</mt-tab-item>
                 <mt-tab-item id="2">CBA</mt-tab-item>
                 <mt-tab-item id="3">路人王</mt-tab-item>
@@ -24,15 +24,17 @@
             <mt-tab-container v-model="selected">
                 <mt-tab-container-item id="1">
                     <ul class="news-list">
-                        <li v-for="(news,index) in newsList" :key="index" class="newLi">
-                            <div class="newImg">
-                                <img :src="news.thumb" alt=""/>
-                            </div>
-                            <div class="newsWord">
-                                <p class="newsTitle">{{news.title}}</p>
-                                <p class="newsInfo">{{news.info}}</p>
-                                <p class="newsTime">{{news.upTime}}</p>
-                            </div>
+                        <li v-for="(news,index) in newsList" :key="index" >
+                            <router-link :to="{name:'Detail-NBA', params: {id: news.id}}" class="newLi">
+                                <div class="newImg">
+                                    <img :src="news.thumb" alt=""/>
+                                </div>
+                                <div class="newsWord">
+                                    <p class="newsTitle">{{news.title}}</p>
+                                    <p class="newsInfo">{{news.info}}</p>
+                                    <p class="newsTime">{{news.upTime}}</p>
+                                </div>
+                            </router-link>
                         </li>
                     </ul>
                 </mt-tab-container-item>
@@ -51,9 +53,11 @@
 </template>
 
 <style scoped>
-    .news{padding-top:10vh;padding-bottom:8vh;}
-    .news-list{width: 100vw;}
-    .newLi{padding:2%;height:14vh;overflow: hidden;display: flex;border-bottom: 1px solid #F3F3F3}
+    
+    .mint-navbar{position: fixed;left:0;top: 8vh;z-index: 90;}
+    .news{padding-bottom:6vh;}
+    .news-list{width: 100vw;margin-top: 16vh;}
+    .newLi{padding:2%;height:14vh;overflow: hidden;display: flex;border-bottom: 1px solid #F3F3F3;text-decoration: none;color:#555;}
     .newImg{flex:0 0 25vw;overflow: hidden;margin-right: 2vw;}
     .newImg img{height: 100%;transform: scale(1.2) translate(-1rem,.5rem);}
     .newsTitle{font-size: .875rem;font-weight: bold;}
@@ -75,8 +79,8 @@ export default {
   data(){
     return{
       newsList: [],
-      selected:"",
-     
+      selected:"1",
+      bbs_id: []
     }
   },
   created:function(){
@@ -84,6 +88,12 @@ export default {
       .then(res=>{
         //   console.log(res.data.data);
           this.newsList = res.data.data
+        // this.bbs_id = this.newsList.urls.bbs_url.split("").slice(21, 29).join("")
+        // console.log(this.newsList.each((item, idx) => idx.urls.bbs_url.split("").slice(21, 29).join("")))
+
+        this.newsList.forEach(element => {
+            console.log(element.urls.bbs_url.split("").slice(21, 29).join(""))
+        });
       })
       .catch(error=>{
           alert("他强任他强……")

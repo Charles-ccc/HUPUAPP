@@ -1,542 +1,836 @@
-[
+﻿[
     {
-        "href": "https://voice.hupu.com/nba/2228480.html",
-        "id": "2228480",
-        "title": "凯尔特人负热火，骑士6连胜变为本赛季目前的最长连胜",
-        "upTime": "2017-11-23 11:10:48",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/119ba2575f87c793ff1fb5dfb5e58a73659df95e.jpg",
-        "info": "虎扑11月23日讯 今日凯尔特人在客场98-104不敌热火，16连胜遭到终结。骑士在主场战胜篮网，迎来6连胜。这样一来，骑士的6连胜变为联盟本赛季现存的最长连胜纪录。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228478.html",
-        "id": "2228478",
-        "title": "詹姆斯观看欧文比赛：进攻终结得真是漂亮",
-        "upTime": "2017-11-23 11:08:07",
+        "href": "https://voice.hupu.com/nba/2228952.html",
+        "id": "2228952",
+        "title": "勇士与骑士分列本赛季所有球队中进攻效率前两名",
+        "upTime": "2017-11-24 14:58:54",
         "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/198aa35f63b36d242f528616787530f63a64dbab.png",
-        "info": "虎扑11月23日讯 骑士今天在主场119-109战胜篮网。骑士前锋勒布朗-詹姆斯出场33分钟17投11中，三分球7投4中，得到33分6篮板5助攻2抢断3失误。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/ec46e46696366d2fc670afb6a11a6236e7a1e030.jpg",
+        "info": "虎扑11月24日讯 根据骑士记者Mike Zavagno的统计，勇士与骑士的进攻效率（oRTG）分列本赛季联盟所有球队的前两名。其中勇士的oRTG达到了100.9，骑士则达到了100.2。",
+        "urls": {
+            "id": 0,
+            "voice_url": "https://voice.hupu.com/nba/2228952.html",
+            "bbs_url": "https://bbs.hupu.com/20801374.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228476.html",
-        "id": "2228476",
-        "title": "科沃尔谈詹姆斯三分7中4：他是真正的投手了",
-        "upTime": "2017-11-23 11:04:08",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/949a48300ede2bb512a04b84daf5d69723ef6411.png",
-        "info": "虎扑11月23日讯 骑士今天在主场以119-109战胜篮网，赛后骑士球员凯尔-科沃尔称赞了队友勒布朗-詹姆斯的投篮。"
+        "href": "https://voice.hupu.com/nba/2228949.html",
+        "id": "2228949",
+        "title": "乔丹-贝尔：更加职业地面对出场时间问题",
+        "upTime": "2017-11-24 14:44:20",
+        "source": "NBC",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/897e3e783facb727e10933452071f4366fdbaf66.jpg",
+        "info": "虎扑11月24日讯 勇士新秀乔丹-贝尔今日接受了采访，对于近期未获得上场时间的问题做出了回应。",
+        "urls": {
+            "id": 1,
+            "voice_url": "https://voice.hupu.com/nba/2228949.html",
+            "bbs_url": "https://bbs.hupu.com/20801283.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228474.html",
-        "id": "2228474",
-        "title": "格里芬26+10+10收获生涯第6次三双",
-        "upTime": "2017-11-23 11:03:10",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/c2706d317ef8cb1f7575ba5ec809fb5f6ad03a66.jpg",
-        "info": "虎扑11月23日讯 快船今日在客场以116-103战胜了老鹰，本场比赛，快船球员布雷克-格里芬得到了26分10个篮板10次助攻的三双数据，这是格里芬职业生涯第6次得到三双。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228472.html",
-        "id": "2228472",
-        "title": "76人以10胜7负开局，队史近4年来最佳",
-        "upTime": "2017-11-23 10:59:33",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/d04eae83744c7c235dca13695d22f94010438dd2.jpg",
-        "info": "虎扑11月23日讯 今日76人在主场101-81大胜开拓者，本场比赛过后，76人的战绩变为10胜7负。10胜7负也是76人近4年来最快拿到10场胜利的一个赛季。在2012-2013赛季，76人开局取得了10胜6负的战绩，最终他们的战绩为34胜48负。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228471.html",
-        "id": "2228471",
-        "title": "恩比德28+12，赛季场均数据升至22.7+11",
-        "upTime": "2017-11-23 10:58:31",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/25818dfe0fd3bdca912341e1dc9c0a0dab005590.jpg",
-        "info": "虎扑11月23日讯 76人今日在主场以101-81战胜了开拓者，本场比赛76人球员乔尔-恩比德得到了28分12个篮板，据StatMuse统计，恩比德本赛季的场均数据已经达到了22.7分11.0个篮板。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228470.html",
-        "id": "2228470",
-        "title": "凯尔特人不敌热火，16连胜终结",
-        "upTime": "2017-11-23 10:56:55",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/176f3eb13fed0d58e58b5179e54205b9031de73f.png",
-        "info": "虎扑11月23日讯 在今天的比赛中，凯尔特人98-104不敌热火，这也让他们的连胜停止到了16场。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228468.html",
-        "id": "2228468",
-        "title": "沃尔本赛季首次得到至少30分10次助攻",
-        "upTime": "2017-11-23 10:49:41",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/bfdeb2c9874a590815be09bd50ce1a9440f7b49f.jpg",
-        "info": "虎扑11月23日讯 奇才今日在客场加时124-129输给了黄蜂，本场比赛奇才球员约翰-沃尔得到了31分11次助攻，这是沃尔本赛季首次单场得到至少30分10次助攻。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228467.html",
-        "id": "2228467",
-        "title": "库班：特朗普和拉瓦尔都是为了制造话题",
-        "upTime": "2017-11-23 10:49:40",
-        "source": "YouTube",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/13d0a6ff16bf1e805b867f8a0bee754d4cc98e73.png",
-        "info": "虎扑11月23日讯 小牛老板马克-库班在接受TMZ采访时被问到了美国总统唐纳德-特朗普以及拉瓦尔-鲍尔之间的冲突，库班认为，这二人其实非常相似。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228450.html",
-        "id": "2228450",
-        "title": "詹姆斯：在职业生涯这个阶段，我只是想努力打球",
-        "upTime": "2017-11-23 10:43:51",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/7bebb0ce3468309d0b358c492a8979f0f32d5251.png",
-        "info": "虎扑11月23日讯 在刚刚结束的一场常规赛中，骑士坐镇主场以119-109力克篮网。本场比赛骑士球星勒布朗-詹姆斯出场33分钟，17投11中，三分球7投4中，罚球9罚7中，得到33分6个篮板5个助攻。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228448.html",
-        "id": "2228448",
-        "title": "杜兰特与威斯布鲁克发生口角，双双吃到技术犯规",
-        "upTime": "2017-11-23 10:42:37",
-        "source": "虎扑",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/4d99baa5fad3de2c51c03b4f79e0b33b0fb584b8.jpg",
-        "info": "虎扑11月23日讯 雷霆今日在主场对阵勇士，比赛中勇士球员凯文-杜兰特与雷霆球员拉塞尔-威斯布鲁克发生口角，双双吃到技术犯规。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228447.html",
-        "id": "2228447",
-        "title": "前NCAA教练：波尔刚进NBA时估计40多了",
-        "upTime": "2017-11-23 10:42:12",
-        "source": "The Score",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/9771dca57365e7d926f043ebba62ec067d12aca9.jpg",
-        "info": "虎扑11月23日讯 马努特-波尔的真实年龄到底有多大？恐怕这个已经永远无法查证了。因为据前克利夫兰州立大学教练Kevin Mackey声称，波尔的生日是他给定的。波尔于20世纪80年代中期抵达美国，当时是Kevin Mackey在负责对他进行招募。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228445.html",
-        "id": "2228445",
-        "title": "科尔作为体育迷最心碎的时刻：UCLA连胜终结",
-        "upTime": "2017-11-23 10:38:35",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/d2573028dba39622bb4c5ab374aea08359b42263.png",
-        "info": "虎扑11月23日讯 近日，勇士主帅史蒂夫-科尔在接受记者采访时谈到了作为一个运动爱好者，他最心碎的时刻。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228443.html",
-        "id": "2228443",
-        "title": "詹姆斯生涯上场时间超越奥尼尔升至历史第24位",
-        "upTime": "2017-11-23 10:35:40",
-        "source": "Basketball-Reference",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/5bb843b0a40a7f8e0ef7109c1630b692ba556a50.png",
-        "info": "虎扑11月23日讯 今天骑士在主场119-109战胜篮网，骑士球员勒布朗-詹姆斯上场33分钟，得到33分6篮板5助攻。本场比赛前，詹姆斯生涯出场时间为41915分钟，奥尼尔为41918分钟。本场比赛过后，詹姆斯的生涯常规赛上场时间就超越了沙奎尔-奥尼尔，排在NBA历史第24位。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228442.html",
-        "id": "2228442",
-        "title": "保罗-乔治：这里的化学反应令人难以置信",
-        "upTime": "2017-11-23 10:35:33",
-        "source": "今日美国",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/c8a549f0bdaf9a5a31f60b8d0bccaa081097936f.png",
-        "info": "虎扑11月23日讯 据今日美国报道，雷霆球星保罗-乔治在今天接受采访时谈到了球队赛季初期的艰难挣扎。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228441.html",
-        "id": "2228441",
-        "title": "尼克斯在第三节打出28-0的攻击波",
-        "upTime": "2017-11-23 10:35:25",
-        "source": "虎扑",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/867ac517c269f45f43bcd3b9597a431d4c0010d9.jpg",
-        "info": "虎扑11月23日讯 尼克斯今日在主场对阵猛龙，在比赛的第三节，尼克斯突然发力打出了一波41-10，其中包括了一波28-0，逆转了比赛。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228439.html",
-        "id": "2228439",
-        "title": "76人球迷在垃圾时间喊起“我们要奥卡福”口号",
-        "upTime": "2017-11-23 10:33:15",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/7c1eba49a01b21241265272c4f0ec43176816a8e.png",
-        "info": "虎扑11月23日讯 在今天的比赛中，76人101-81战胜开拓者。在比赛末段，主场的76人球迷喊起了“我们要奥卡福”的口号。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228438.html",
-        "id": "2228438",
-        "title": "雷霆三巨头半场50分，勇士全队48分",
-        "upTime": "2017-11-23 10:28:48",
-        "source": "虎扑",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/57842c0eb908426c90d98b9d13a0bff2314f18e4.jpg",
-        "info": "虎扑11月23日讯 雷霆今日在主场对阵勇士，半场结束，雷霆目前以65-48暂时领先，雷霆三巨头本场比赛发挥出色，拉塞尔-威斯布鲁克得到了20分7个篮板6次助攻，卡梅罗-安东尼得到了16分，保罗-乔治得到了14分4个篮板，三人合计得到50分，比勇士全队还要多2分。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228437.html",
-        "id": "2228437",
-        "title": "76人本赛季第8场篮板上50，联盟最多",
-        "upTime": "2017-11-23 10:26:56",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/9836dc16dd8cb87091fb1422dc794e99bda8995d.png",
-        "info": "虎扑11月23日讯 在今天的比赛中76人101-81战胜开拓者，目前76人本场比赛得到57个篮板，这也是他们本赛季至今第8场篮板上50个，整个联盟最多。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228435.html",
-        "id": "2228435",
-        "title": "周琦上半场数据：1帽1助1板1抢断",
-        "upTime": "2017-11-23 10:19:10",
-        "source": "虎扑",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/fdd93b7bddc4dfddc48bd1e56104ca02f32b004a.jpg",
-        "info": "虎扑11月23日讯 火箭今天主场对阵掘金，上半场结束，火箭以75-40领先掘金。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228434.html",
-        "id": "2228434",
-        "title": "恩比德排球大帽，76人官推用排球拼出NO",
-        "upTime": "2017-11-23 10:19:00",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/829840a086103d325ebb042b38d478b5e87cb03d.jpg",
-        "info": "虎扑11月23日讯 76人今日在主场对阵开拓者，76人球员乔尔-恩比德在比赛中送出了一记排球大帽，随后76人官方在推特上用排球拼出了一个“NO”。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228433.html",
-        "id": "2228433",
-        "title": "安东尼：我们没有什么主从秩序，我们的目标相同",
-        "upTime": "2017-11-23 10:18:45",
-        "source": "今日美国",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/254df1214b8132b6b6b99363de2472dd71004768.png",
-        "info": "虎扑11月23日讯 据今日美国报道，雷霆球星卡梅罗-安东尼在今天接受采访时谈到了雷霆赛季初的挣扎。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228432.html",
-        "id": "2228432",
-        "title": "打疯了！詹姆斯第四节连得20分",
-        "upTime": "2017-11-23 10:16:40",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/80caed490f40cc9d58c8125296a4be871bd4f7f2.png",
-        "info": "虎扑11月23日讯 在今天的比赛中骑士119-109战胜篮网，骑士球员勒布朗-詹姆斯本场比赛得到33分6篮板5助攻，其中他在第四节8投7中，三分4中3，罚球7中6得到23分，其中20分是连续得到的。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228431.html",
-        "id": "2228431",
-        "title": "詹姆斯过去5个赛季扣篮命中率为96.3％",
-        "upTime": "2017-11-23 10:13:41",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/fd194ff3c42aee4c2b8a13dee7e3cb936a809472.png",
-        "info": "虎扑11月23日讯 今天骑士在主场迎战篮网，在比赛进行到首节还剩3分47秒时，骑士球员勒布朗-詹姆斯抢断对手试图大风车扣篮，但是扣飞了。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228430.html",
-        "id": "2228430",
-        "title": "杜兰特职业生涯罚球命中总数突破5000",
-        "upTime": "2017-11-23 10:06:38",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/6abd0eccc196a15c1bab4b48004005f1bcacd5de.jpg",
-        "info": "虎扑11月23日讯 今日勇士客场挑战雷霆，勇士球员凯文-杜兰特出场16分钟得到12分4篮板1助攻，其中两罚两中。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228429.html",
-        "id": "2228429",
-        "title": "湖人助教被发现在球队训练期间贬低拉塞尔",
-        "upTime": "2017-11-23 10:05:25",
-        "source": "The Score",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/4ffeee64d2cd95b5aaa6cd8b12eb7f48d3025972.png",
-        "info": "虎扑11月23日讯 NBA TV昨天在Facebook首页发布了一段湖人的内部训练视频，眼尖的Reddit网友发现，当湖人前锋凯尔-库兹马训练罚球时，湖人助教布莱恩-肖在一旁贬低起了前湖人球员丹吉洛-拉塞尔。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228426.html",
-        "id": "2228426",
-        "title": "克劳福德职业生涯出场数达到1200",
-        "upTime": "2017-11-23 10:03:16",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/596f92ad785bde6a15f49b4583e47102c05ebdb7.jpg",
-        "info": "虎扑11月23日讯 今日森林狼主场迎战魔术，森林狼球员贾马尔-克劳福德替补出场得到6分1篮板。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228424.html",
-        "id": "2228424",
-        "title": "雷迪克职业生涯三分命中总数升至历史第36位",
-        "upTime": "2017-11-23 09:56:43",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/eba46aa1a96b12fb70afe0946a622e4f50eb297d.png",
-        "info": "虎扑11月23日讯 今日76人主场迎战开拓者，76人球员JJ-雷迪克出场25分钟，9投3中已经得到8分4篮板，其中三分5投2中，这样他职业生涯三分命中总数就达到了1305，超越迈克-邓利维（1304），追平阿兰-休斯敦（1305）升至历史第36位。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228422.html",
-        "id": "2228422",
-        "title": "弗莱生涯三分命中数超越乔-杜马斯",
-        "upTime": "2017-11-23 09:55:15",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/d9f43997e6400e3abadc6b9b2001077a7e7bd3c4.jpg",
-        "info": "虎扑11月23日讯 今天骑士在主场迎战篮网，比赛进行到第四节。骑士球员钱宁-弗莱目前命中1记三分，这样一来他的生涯三分命中数就达到了990，追平了活塞名宿乔-杜马斯升至历史第98位。查看NBA三分总命中数排行榜>>"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228421.html",
-        "id": "2228421",
-        "title": "波波维奇：从未见过科怀-伦纳德这种伤病",
-        "upTime": "2017-11-23 09:53:13",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/fe7b8fb2d13565058579429f112ac66d1561f6c7.jpg",
-        "info": "虎扑11月23日讯 马刺主教练格雷格-波波维奇今日接受了采访，他表示在自己的生涯中从未见过科怀-伦纳德这种股四头肌的问题。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228420.html",
-        "id": "2228420",
-        "title": "詹姆斯职业生涯三分命中数达到1500",
-        "upTime": "2017-11-23 09:52:01",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/ff8d92405b1b702c403a76459b0bf2b91343e87d.jpg",
-        "info": "虎扑11月23日讯 今天骑士在主场迎战篮网，比赛正在进行中。骑士球员勒布朗-詹姆斯目前10投5中得到13分，其中三分球4投2中。加上这2记三分，詹姆斯职业生涯三分命中数就达到了1500。查看NBA三分总命中数排行榜>>"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228419.html",
-        "id": "2228419",
-        "title": "利拉德职业生涯三分命中数升至历史第76位",
-        "upTime": "2017-11-23 09:51:18",
-        "source": "Basketball-Reference",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/149dc17888d993329550023ca6c45e2581a0c014.jpg",
-        "info": "虎扑11月23日讯 今日开拓者客场挑战76人，开拓者球员达米安-利拉德出场30分钟，20投9中得到24分2篮板2助攻，其中三分10投5中，这样他职业生涯三分命中总数就达到了1087，超越本-莫布里（1085）和拉希德-华莱士（1086），升至历史第76位。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228418.html",
-        "id": "2228418",
-        "title": "马龙谈火箭第四节得分最低：他们领先了30分",
-        "upTime": "2017-11-23 09:49:27",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/3a5285e976a3d0283a8fd2352025dec77fc5a374.png",
-        "info": "虎扑11月23日讯 掘金今天在客场挑战火箭，赛前掘金主帅迈克尔-马龙接受了记者采访。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228417.html",
-        "id": "2228417",
-        "title": "恩比德打趣：我认为我现在恢复到了81%",
-        "upTime": "2017-11-23 09:45:17",
-        "source": "The Score",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/116963d2d291afb0f43cbb58e9e3c64a478ea51c.png",
-        "info": "虎扑11月23日讯 76人中锋乔尔-恩比德在今天接受了《The SC6》节目的采访，在此期间，恩比德开玩笑表示，他现在的健康情况已经从69%上升至81%。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228416.html",
-        "id": "2228416",
-        "title": "湖人官方晒鲍尔和克拉克森抵达球馆的照片",
-        "upTime": "2017-11-23 09:43:45",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/6a869e76f5f114db1f3e68f7dedf85b6e6f10a5b.png",
-        "info": "虎扑11月23日讯 今天上午11:30，湖人将在客场对阵国王，赛前湖人官方在推特上发表了两张球员朗佐-鲍尔和乔丹-克拉克森进入球馆的照片（见新闻配图）。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228414.html",
-        "id": "2228414",
-        "title": "记者晒出小牛球员们昨日在医院看望生病儿童的照片",
-        "upTime": "2017-11-23 09:40:26",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/e54d81e766ecb93efce9fa36b9015940c3010fdf.jpg",
-        "info": "虎扑11月23日讯 小牛记者Earl K. Sneed今日在推特上发布了一组德克-诺维茨基等小牛球员昨日前往医院看望生病儿童的照片（见新闻配图）。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228413.html",
-        "id": "2228413",
-        "title": "詹姆斯返回更衣室的原因是接受脸部撕裂缝针",
-        "upTime": "2017-11-23 09:39:48",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/95057599906ed74bc379d6f7e635387f303a8b3f.png",
-        "info": "虎扑11月23日讯 据骑士记者Dave McMenamin‏报道，骑士方面表示，勒布朗-詹姆斯在第三节返回更衣室的原因是为了接受脸部撕裂的缝针。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228412.html",
-        "id": "2228412",
-        "title": "诺维茨基职业生涯篮板数达到11000",
-        "upTime": "2017-11-23 09:37:25",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/22a15ca210aba3ff26c8f26c4dcd43a051600033.jpg",
-        "info": "虎扑11月23日讯 今天小牛在客场挑战灰熊，比赛进行中。小牛球员德克-诺维茨基目前上场9分钟，得到5分3篮板。这样一来，诺维茨基的生涯篮板数就达到了11000。查看NBA总篮板排行榜>>"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228408.html",
-        "id": "2228408",
-        "title": "开拓者面对76人半场得到37分，创8年来新低",
-        "upTime": "2017-11-23 09:31:49",
-        "source": "Basketball-Reference",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/bd80284923520b1fc3736336c0fa949314261f74.jpg",
-        "info": "虎扑11月23日讯 今天开拓者在客场挑战76人，上半场结束时双方战成37-50，这也是开拓者8年以来面对76人时半场得到的最低分。在北京时间2009年1月15日开拓者79-100不敌76人的比赛中，半场结束时开拓者以33-55落后。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228409.html",
-        "id": "2228409",
-        "title": "哈登：感谢每一位伸出援手的人",
-        "upTime": "2017-11-23 09:30:00",
+        "href": "https://voice.hupu.com/nba/2228946.html",
+        "id": "2228946",
+        "title": "贾巴里-帕克向当地民众捐赠150份感恩节晚饭",
+        "upTime": "2017-11-24 14:36:45",
         "source": "Instagram",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/b7b346dfb775e7c01692ea01966fb4ba1666021a.jpg",
-        "info": "虎扑11月23日讯 今天，火箭球员詹姆斯-哈登在Instagram上传了一组自己此前与队友周琦、特雷沃-阿里扎一起参加休斯顿当地公益活动的图集（见新闻配图）。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/d650d7c185beeb812a8752adf664f31dc7509f03.jpg",
+        "info": "虎扑11月24日讯 雄鹿官方今天更新了Instagram，发布了一组球员贾巴里-帕克向当地民众发放感恩节晚饭的照片。",
+        "urls": {
+            "id": 2,
+            "voice_url": "https://voice.hupu.com/nba/2228946.html",
+            "bbs_url": "https://bbs.hupu.com/20801220.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228406.html",
-        "id": "2228406",
-        "title": "巴图姆左肘撞伤离场，本场比赛不会回归",
-        "upTime": "2017-11-23 09:29:53",
+        "href": "https://voice.hupu.com/nba/2228942.html",
+        "id": "2228942",
+        "title": "活塞官方发布比赛预告：目前对西部球队5胜1负",
+        "upTime": "2017-11-24 14:24:23",
         "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/90cc979c70d13e5e0a8bd9dc28fc35ba1bdd42b7.jpg",
-        "info": "虎扑11月23日讯 黄蜂与奇才的比赛正在进行中，黄蜂球员尼古拉斯-巴图姆在比赛中撞伤左肘，本场比赛将不会再上场。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/0326de309a467ae59fc93aa93be0aefde49953be.jpg",
+        "info": "虎扑11月24日讯 活塞官方今天更新了推特，发布了一张球员埃弗里-布拉德利与斯坦利-约翰逊的照片。",
+        "urls": {
+            "id": 3,
+            "voice_url": "https://voice.hupu.com/nba/2228942.html",
+            "bbs_url": "https://bbs.hupu.com/20801138.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228405.html",
-        "id": "2228405",
-        "title": "凯尔特人本赛季落后至少10分的比赛5胜1负",
-        "upTime": "2017-11-23 09:23:40",
+        "href": "https://voice.hupu.com/nba/2228940.html",
+        "id": "2228940",
+        "title": "贾莱特-阿伦：进入联盟后，我的防守一直在提高",
+        "upTime": "2017-11-24 14:18:30",
+        "source": "纽约邮报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/ebe09d7b4567196e01bdbbf010008d2c3f503043.png",
+        "info": "虎扑11月24日讯 据《纽约邮报》报道，在昨天不敌骑士的比赛中，篮网中锋贾莱特-阿伦替补出战19分钟，3投3中得到6分4篮板2助攻。",
+        "urls": {
+            "id": 4,
+            "voice_url": "https://voice.hupu.com/nba/2228940.html",
+            "bbs_url": "https://bbs.hupu.com/20801092.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228939.html",
+        "id": "2228939",
+        "title": "凯尔特人官方发布明天比赛的球服",
+        "upTime": "2017-11-24 14:15:51",
         "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/748bf6ba617733d7512f92bc5b0033c96c628647.jpg",
-        "info": "虎扑11月23日讯 凯尔特人与热火的比赛正在进行中，凯尔特人目前以26-42落后于对手。"
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/dc744d07dc28612f401713d1d167c058fc5db968.jpg",
+        "info": "虎扑11月24日讯 凯尔特人官方刚刚更新了推特，发布了一张球队本赛季队服的照片。",
+        "urls": {
+            "id": 5,
+            "voice_url": "https://voice.hupu.com/nba/2228939.html",
+            "bbs_url": "https://bbs.hupu.com/20801073.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228403.html",
-        "id": "2228403",
-        "title": "阿里扎正出售塔扎纳的房产，售价为350万美元",
-        "upTime": "2017-11-23 09:20:17",
+        "href": "https://voice.hupu.com/nba/2228937.html",
+        "id": "2228937",
+        "title": "感恩节坚持健身！阿德托昆博晒自己训练的视频",
+        "upTime": "2017-11-24 14:12:21",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/94912bb31d4d36a1eeee4b73f28576da886ed441.png",
+        "info": "虎扑11月24日讯 雄鹿球员扬尼斯-阿德托昆博刚刚在自己的Instagram Story上发布了一段自己骑健身车训练的视频。",
+        "urls": {
+            "id": 6,
+            "voice_url": "https://voice.hupu.com/nba/2228937.html",
+            "bbs_url": "https://bbs.hupu.com/20801047.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228932.html",
+        "id": "2228932",
+        "title": "弗莱晒自己身穿印有《亚瑟》人物图案上衣的照片",
+        "upTime": "2017-11-24 13:58:19",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/2c457b74b30f0a760956de5322f7812a44f06122.jpg",
+        "info": "虎扑11月24日讯 骑士球员钱宁-弗莱刚刚在自己的Instagram Story上发布了一张自己身穿印有动画片《亚瑟》中人物图案上衣的照片。",
+        "urls": {
+            "id": 7,
+            "voice_url": "https://voice.hupu.com/nba/2228932.html",
+            "bbs_url": "https://bbs.hupu.com/20800938.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228933.html",
+        "id": "2228933",
+        "title": "卡罗尔：不懂为什么要中午开赛，但还是要准备好",
+        "upTime": "2017-11-24 13:57:29",
+        "source": "纽约邮报",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/6fcf2a35ae499a20ff5cff19ad49362f80fd0730.jpg",
+        "info": "虎扑11月24日讯 篮网将于当地时间周五中午在主场迎来开拓者的挑战，对于提前开打的比赛，主教练肯尼-阿特金森和德马雷-卡罗尔都发表了看法。",
+        "urls": {
+            "id": 8,
+            "voice_url": "https://voice.hupu.com/nba/2228933.html",
+            "bbs_url": "https://bbs.hupu.com/20800944.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228931.html",
+        "id": "2228931",
+        "title": "盖伊妻子晒全家福：我爱孩子们和这个男人",
+        "upTime": "2017-11-24 13:53:23",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/6a95dd4fe585739cf77ad94877b0bd05d6aed3ec.jpg",
+        "info": "虎扑11月24日讯 马刺球员鲁迪-盖伊的妻子Ecko Gay今天更新了自己的Instagram，发布了一张全家的合影。",
+        "urls": {
+            "id": 9,
+            "voice_url": "https://voice.hupu.com/nba/2228931.html",
+            "bbs_url": "https://bbs.hupu.com/20800908.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228930.html",
+        "id": "2228930",
+        "title": "篮球世界杯美洲区预选赛首日比赛结束，美国阿根廷获胜",
+        "upTime": "2017-11-24 13:41:29",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/0bba713c025bd308afd2fc8e35e7a500cafd8d73.jpg",
+        "info": "虎扑11月24日讯 2019年篮球世界杯预选赛美洲区预选赛刚刚结束了第一日的争夺，美国、阿根廷、乌拉圭、墨西哥取得了胜利。",
+        "urls": {
+            "id": 10,
+            "voice_url": "https://voice.hupu.com/nba/2228930.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228928.html",
+        "id": "2228928",
+        "title": "历史上的今天：张伯伦单场抢下55个篮板",
+        "upTime": "2017-11-24 13:28:59",
+        "source": "Basketball-Reference",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/69df68ae960c195ce5415ada9675d3b5b73989fa.jpg",
+        "info": "虎扑11月24日讯  1960年11月24日，效力于费城勇士的威尔特-张伯伦在对阵凯尔特人的比赛中首发出场48分钟，42投15中得到34分55篮板4助攻。",
+        "urls": {
+            "id": 11,
+            "voice_url": "https://voice.hupu.com/nba/2228928.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228927.html",
+        "id": "2228927",
+        "title": "沃顿：球队的失误数据从现在开始会下降的",
+        "upTime": "2017-11-24 13:25:35",
         "source": "洛杉矶时报",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/4cbe36e5a98cbaceebf370f180a99f6e3d5c9a61.jpg",
-        "info": "虎扑11月23日讯 据记者Neal J.Leitereg报道称，火箭球员特雷沃-阿里扎正在出售位于塔扎纳 (加利福尼亚州洛杉矶的周边区域)的房子，售价为350万美元。"
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/2a56c308ab13dedeb9038d58eb22f9a9bc03658e.png",
+        "info": "虎扑11月24日讯 根据《洛杉矶时报》记者Tania Ganguli报道，湖人目前场均17.3次失误排名联盟倒数第二。",
+        "urls": {
+            "id": 12,
+            "voice_url": "https://voice.hupu.com/nba/2228927.html",
+            "bbs_url": "https://bbs.hupu.com/20800735.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228402.html",
-        "id": "2228402",
-        "title": "索恩-梅克感谢加内特指导自己：传奇",
-        "upTime": "2017-11-23 09:13:20",
+        "href": "https://voice.hupu.com/nba/2228926.html",
+        "id": "2228926",
+        "title": "德安德烈-本布里为当地居民送去感恩节食物",
+        "upTime": "2017-11-24 13:10:30",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/7574ad7cd20c6a4ed850a148164956cb1d9c0ce0.jpg",
+        "info": "虎扑11月24日讯 今天（美国时间11月24日）是美国的感恩节，老鹰球员德安德烈-本布里为当地居民送去了食物，并与他们合影留念。",
+        "urls": {
+            "id": 13,
+            "voice_url": "https://voice.hupu.com/nba/2228926.html",
+            "bbs_url": "https://bbs.hupu.com/20800646.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228923.html",
+        "id": "2228923",
+        "title": "克莱-汤普森参加感恩节派送火鸡慈善活动",
+        "upTime": "2017-11-24 12:35:49",
         "source": "Instagram",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/62419a86512f8d73cf28978040299ce7f1c4ea48.jpg",
-        "info": "虎扑11月23日讯 已经退役的NBA巨星凯文-加内特此前来到雄鹿训练馆指导雄鹿前锋索恩-梅克。"
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/119dc3c7f8d1488d9c3fb07e8e26029b5affe437.jpg",
+        "info": "虎扑11月24日讯 今天，勇士球员克莱-汤普森在Instagram上发布了一组他参加感恩节派送火鸡慈善活动的照片。",
+        "urls": {
+            "id": 14,
+            "voice_url": "https://voice.hupu.com/nba/2228923.html",
+            "bbs_url": "https://bbs.hupu.com/20800418.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228400.html",
-        "id": "2228400",
-        "title": "艾萨克谈伤病：虽然过程缓慢，但每天都在变好",
-        "upTime": "2017-11-23 09:04:35",
-        "source": "奥兰多哨兵报",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/c2e8375ae1ee0743d573ca258f550ab1e769082d.jpg",
-        "info": "虎扑11月23日讯 魔术球员乔纳森-艾萨克因伤将缺席今日比赛，对此他本人和球队主教练都做出了回应。"
+        "href": "https://voice.hupu.com/nba/2228922.html",
+        "id": "2228922",
+        "title": "兰姆：我仍然有很多地方需要提升",
+        "upTime": "2017-11-24 12:33:00",
+        "source": "夏洛特观察者报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/83af9a4d137ec4836ef24c8b0465caaa34586052.jpg",
+        "info": "虎扑11月24日讯 随着黄蜂球员尼古拉斯-巴图姆左肘受伤，黄蜂的杰里米-兰姆身上的责任变得更大了，在巴图姆复出前，兰姆一直都是先发，期间场均得到16分，延续了上赛季后半赛季的出色状态。",
+        "urls": {
+            "id": 15,
+            "voice_url": "https://voice.hupu.com/nba/2228922.html",
+            "bbs_url": "https://bbs.hupu.com/20800402.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228399.html",
-        "id": "2228399",
-        "title": "火箭首发名单公布：PJ-塔克将首发",
-        "upTime": "2017-11-23 09:02:01",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/8ee7ef80a63198f5b664365061123572d32ea875.jpg",
-        "info": "虎扑11月23日讯 火箭今日将在主场对阵掘金，火箭球员埃里克-戈登（小腿肌肉紧张）和莱恩-安德森（生病）将缺席这场比赛。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228398.html",
-        "id": "2228398",
-        "title": "萨博尼斯发布自己与队友一起参与公益活动的照片",
-        "upTime": "2017-11-23 09:00:28",
+        "href": "https://voice.hupu.com/nba/2228914.html",
+        "id": "2228914",
+        "title": "默里晒自己与女友合影：我们在一起可以对抗整个世界",
+        "upTime": "2017-11-24 12:06:29",
         "source": "Instagram",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/f3a59889e73c65c3bc0cf0dc7f8671f069dac194.jpg",
-        "info": "虎扑11月23日讯 今天，步行者球员多曼塔斯-萨博尼斯在Instagram上传了两张自己与队友科里-约瑟夫、约瑟夫-杨一起参加感恩节公益活动的照片（见新闻配图）。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/8e4ec2fea1e023b8b771fd7b15c1052b89b49be2.jpg",
+        "info": "虎扑11月24日讯 今日，马刺球员德章泰-默里在Instagram上发布了一张自己与女友的合照，图中二人抱在一起，十分甜蜜。",
+        "urls": {
+            "id": 17,
+            "voice_url": "https://voice.hupu.com/nba/2228914.html",
+            "bbs_url": "https://bbs.hupu.com/20800222.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228396.html",
-        "id": "2228396",
-        "title": "凯西盛赞坎特：他抢前场篮板的风格像罗德曼",
-        "upTime": "2017-11-23 08:58:04",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/ecb3e263873631983343a100b38f917c8fde421c.jpg",
-        "info": "虎扑11月23日讯 尼克斯中锋埃内斯-坎特本赛季每48分钟的前场篮板数高居联盟第三，然而在北京时间11月18日猛龙与尼克斯的比赛中，坎特却在这项数据上颗粒无收。"
+        "href": "https://voice.hupu.com/nba/2228912.html",
+        "id": "2228912",
+        "title": "金特里：阿西克几乎瘦了27斤",
+        "upTime": "2017-11-24 12:00:00",
+        "source": "新奥尔良皮克云时报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/bd474a62d11560fe5498ab40d3aec15aabed7992.jpg",
+        "info": "虎扑11月24日讯 自从2017年2月之后，鹈鹕中锋欧米尔-阿西克就没有上场打过比赛，鹈鹕主帅埃尔文-金特里表示，阿西克已经接近复出了。",
+        "urls": {
+            "id": 18,
+            "voice_url": "https://voice.hupu.com/nba/2228912.html",
+            "bbs_url": "https://bbs.hupu.com/20800175.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228395.html",
-        "id": "2228395",
-        "title": "雄鹿首发名单：佩顿二世、索恩-梅克将首发",
-        "upTime": "2017-11-23 08:55:03",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/070ab37eaad4f3815ea704d98fbb21a7b6881b81.jpg",
-        "info": "虎扑11月23日讯 雄鹿今日在客场挑战太阳，雄鹿球员扬尼斯-阿德托昆博（膝盖酸痛）和约翰-亨森（眼部受伤）将缺席这场比赛。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228393.html",
-        "id": "2228393",
-        "title": "杜兰特受到现场球迷欢迎，并和雷霆元老叙旧",
-        "upTime": "2017-11-23 08:50:37",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/506cc5f3bd769e5c4dd2cd63921d45ddd249860a.jpg",
-        "info": "虎扑11月23日讯 勇士将和雷霆在今天展开一场较量。勇士前锋凯文-杜兰特将回到他此前效力过的地方。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228392.html",
-        "id": "2228392",
-        "title": "76人开场16-0领先，近4年来首次",
-        "upTime": "2017-11-23 08:48:57",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/817c2bc8936be0114888eb681809b2cb0734c704.jpg",
-        "info": "虎扑11月23日讯 76人今日在主场对阵开拓者，76人本场比赛开局便以16-0领先于对手。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228391.html",
-        "id": "2228391",
-        "title": "科尔：禅师在尼克斯做过好事，只是有些不走运",
-        "upTime": "2017-11-23 08:48:29",
-        "source": "新闻日报",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/745d8e842884ab877bb0e0c29418fdfad86a7d00.jpg",
-        "info": "虎扑11月23日讯 勇士主教练史蒂夫-科尔在今日训练后接受了采访，作为曾经与菲尔-杰克逊共事过的朋友，科尔认为杰克逊在尼克斯的经历只是有些不走运而已。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228390.html",
-        "id": "2228390",
-        "title": "尤因预祝范甘迪及美国男篮顺利征战世界杯资格赛",
-        "upTime": "2017-11-23 08:46:42",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/728d25011f89641b809b0cfb6fd38e5327d4f31c.jpg",
-        "info": "虎扑11月23日讯 据此前新闻报道，ESPN分析员和前NBA主教练杰夫-范甘迪将会执教美国男篮征战世界杯资格赛。今天，时任乔治城大学男子篮球队主帅的NBA名宿帕特里克-尤因在推特上表示了对范甘迪及美国队的祝福。范甘迪曾在当时尤因效力的纽约尼克斯队执教。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228389.html",
-        "id": "2228389",
-        "title": "尼克-杨谈加盟勇士：会帮助到我的职业生涯",
-        "upTime": "2017-11-23 08:39:51",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/199c3c9fe6687a33a10ada7d7a25d88eb6ea0b77.png",
-        "info": "虎扑11月23日讯 今天，勇士后卫尼克-杨在接受采访时谈到了自己加盟勇士的感受。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228388.html",
-        "id": "2228388",
-        "title": "泰森-钱德勒将在今日比赛复出，并重回首发",
-        "upTime": "2017-11-23 08:36:29",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/189181bcb5ffd27e64e27b891142eaf9aebb9f6c.jpg",
-        "info": "虎扑11月23日讯 据《密尔沃基哨兵报》记者Matt Velazquez报道，由于生病连续缺席了此前3场比赛的太阳球员泰森-钱德勒将在今日与雄鹿的比赛中复出，并且会重回首发。而格雷格-门罗将替补。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228387.html",
-        "id": "2228387",
-        "title": "泰伦-卢：为小托马斯取得的进步感到开心",
-        "upTime": "2017-11-23 08:35:18",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/cf8efc6af05ff3343f9de5780242269b1522b4a7.jpg",
-        "info": "虎扑11月23日讯 早前，骑士主帅泰伦-卢接受了记者采访。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228385.html",
-        "id": "2228385",
-        "title": "科尔：杜兰特对俄克拉荷马的影响力很大",
-        "upTime": "2017-11-23 08:33:14",
-        "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/89b8ff3de881fe5051f22bfe91db69e745626d0a.jpg",
-        "info": "虎扑11月23日讯 勇士和雷霆将在今天展开一场常规赛较量。勇士前锋凯文-杜兰特将回到他此前效力过的地方。"
-    },
-    {
-        "href": "https://voice.hupu.com/nba/2228383.html",
-        "id": "2228383",
-        "title": "火箭官方发图祝布莱克26岁生日快乐",
-        "upTime": "2017-11-23 08:30:07",
+        "href": "https://voice.hupu.com/nba/2228910.html",
+        "id": "2228910",
+        "title": "杰夫-格林展示一家三口合影：感恩节快乐",
+        "upTime": "2017-11-24 11:54:24",
         "source": "Instagram",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/fd7b0e1fee3b1f8868e68c768d4dd375be641a8e.jpg",
-        "info": "虎扑11月23日讯 今天，火箭球员塔里克-布莱克迎来了自己的26岁生日。火箭官方在Instagram上传了一张布莱克的照片（见新闻配图），并祝他生日快乐。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/89f1c4a6e4be49d154baefbbe00329fd01120881.png",
+        "info": "虎扑11月24日讯 今天是美国的传统节日感恩节，骑士球员杰夫-格林在个人社交媒体主页上发布了一张一家三口的合影。",
+        "urls": {
+            "id": 19,
+            "voice_url": "https://voice.hupu.com/nba/2228910.html",
+            "bbs_url": "https://bbs.hupu.com/20800132.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228382.html",
-        "id": "2228382",
-        "title": "鲍威尔将在今日与尼克斯的比赛中复出",
-        "upTime": "2017-11-23 08:28:24",
-        "source": "Twitter",
-        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171123/5a60d3eb3ef0c0283d5c1f10e9339e867b2c3f93.jpg",
-        "info": "虎扑11月23日讯 据Raptors Republic记者Blake Murphy报道，由于臀部伤势缺席了此前4场比赛的诺曼-鲍威尔将在今日与尼克斯的比赛中复出。"
+        "href": "https://voice.hupu.com/nba/2228908.html",
+        "id": "2228908",
+        "title": "丁威迪谈优秀表现：得归功于教练团队的杰出工作",
+        "upTime": "2017-11-24 11:47:50",
+        "source": "纽约邮报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/d8773db058d162a18b3e2dc7ed26e4db4f7679c5.png",
+        "info": "虎扑11月24日讯 据《纽约邮报》记者Brian Lewis报道，感恩节这天，NBA全体放假没有比赛，在这一天，篮网后卫斯潘塞-丁威迪感激了球队给予他的机会。",
+        "urls": {
+            "id": 20,
+            "voice_url": "https://voice.hupu.com/nba/2228908.html",
+            "bbs_url": "https://bbs.hupu.com/20800080.html"
+        }
     },
     {
-        "href": "https://voice.hupu.com/nba/2228381.html",
-        "id": "2228381",
-        "title": "菲兹戴尔谈巴恩斯：全联盟单打最高效的球员之一",
-        "upTime": "2017-11-23 08:27:07",
+        "href": "https://voice.hupu.com/nba/2228904.html",
+        "id": "2228904",
+        "title": "贾米尔-沃尼17+11，美国战胜波多黎各",
+        "upTime": "2017-11-24 11:28:31",
         "source": "Twitter",
-        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171123/5056dfcc2642d30970f44bdd96c3ca4dfcc9664c.jpg",
-        "info": "虎扑11月23日讯 北京时间今天上午9点，灰熊将坐镇主场迎战小牛。赛前，灰熊主帅大卫-菲兹戴尔在接受采访时谈到了今天的对手。"
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/daa76d46fcad1244c660e67bcae068936aaee753.png",
+        "info": "虎扑11月24日讯 在刚刚结束的一场2019年篮球世界杯预选赛中，美国以85-78击败波多黎各。",
+        "urls": {
+            "id": 21,
+            "voice_url": "https://voice.hupu.com/nba/2228904.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228903.html",
+        "id": "2228903",
+        "title": "达龙-福克斯：哥哥带我走上了鞋头的道路",
+        "upTime": "2017-11-24 11:26:30",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/547857d84e15ea446eb18dbd9414df84b779addc.png",
+        "info": "虎扑11月24日讯 据球鞋记者Nick DePaula报道，国王新秀达龙-福克斯和湖人新秀朗佐-鲍尔算是一对宿敌，NCAA锦标赛期间，福克斯以一场胜利终结了鲍尔的大学生涯，并表示，他想要赢下那场比赛是为“让拉瓦尔-鲍尔闭嘴”。",
+        "urls": {
+            "id": 22,
+            "voice_url": "https://voice.hupu.com/nba/2228903.html",
+            "bbs_url": "https://bbs.hupu.com/20799951.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228901.html",
+        "id": "2228901",
+        "title": "斯科拉22+11+6，阿根廷击败巴拉圭",
+        "upTime": "2017-11-24 11:17:35",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/ab0d7099f4391031ce84b3aa9dc6106a2c3973d0.png",
+        "info": "虎扑11月24日讯 阿根廷在刚刚结束的2019年篮球世界杯预选赛中以96-63大胜巴拉圭。",
+        "urls": {
+            "id": 23,
+            "voice_url": "https://voice.hupu.com/nba/2228901.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228900.html",
+        "id": "2228900",
+        "title": "小哈达威谈面对老东家老鹰：不知道会发生什么",
+        "upTime": "2017-11-24 11:15:00",
+        "source": "纽约邮报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/290767a24a060ba01e38e069c5dbe9e13451b16e.jpg",
+        "info": "虎扑11月24日讯 尼克斯昨日在主场以108-100战胜了猛龙，本场比赛，尼克斯球员小蒂姆-哈达威得到了38分，这也创造了他个人生涯单场得分的新纪录。",
+        "urls": {
+            "id": 24,
+            "voice_url": "https://voice.hupu.com/nba/2228900.html",
+            "bbs_url": "https://bbs.hupu.com/20799863.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228898.html",
+        "id": "2228898",
+        "title": "欧文谈状元热门波特伤病：这肯定非常艰难",
+        "upTime": "2017-11-24 11:14:03",
+        "source": "CBS体育",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/6ec5b3029ec3dcd8995511e31889fac65af7b027.png",
+        "info": "虎扑11月24日讯 根据CBS体育记者Chris Barnewall报道，2017年选秀状元热门，密苏里大学球员小迈克尔-波特由于接受椎间盘手术，将缺席本赛季剩余全部比赛。凯尔特人球员凯里-欧文给波特提出了自己的建议。",
+        "urls": {
+            "id": 25,
+            "voice_url": "https://voice.hupu.com/nba/2228898.html",
+            "bbs_url": "https://bbs.hupu.com/20799845.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228894.html",
+        "id": "2228894",
+        "title": "保卫主场！FIBA官方晒斯科拉训练照",
+        "upTime": "2017-11-24 11:02:03",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/06dd9e2f4a7a8f7b2c497980c2bebac13fa4cbe9.jpg",
+        "info": "虎扑11月24日讯 阿根廷在今天的2019年篮球世界杯预选赛中对阵巴拉圭，赛前FIBA官方在Instagram上发布了一张前NBA球员路易斯-斯科拉在训练的照片。",
+        "urls": {
+            "id": 26,
+            "voice_url": "https://voice.hupu.com/nba/2228894.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228892.html",
+        "id": "2228892",
+        "title": "库兹马评出心目中的首发五虎：科比和詹姆斯同队",
+        "upTime": "2017-11-24 10:58:36",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/b9c4d0e3040a423ca5dc709984f8ee9781a96e28.jpg",
+        "info": "虎扑11月24日讯 今天，湖人新秀凯尔-库兹马在推特上与球迷进行了推特问答活动。以下是部分内容（Q=网友提问，A=库兹马回答）。",
+        "urls": {
+            "id": 27,
+            "voice_url": "https://voice.hupu.com/nba/2228892.html",
+            "bbs_url": "https://bbs.hupu.com/20799724.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228890.html",
+        "id": "2228890",
+        "title": "林书豪展示自己与侄子的合影：感恩节祝福",
+        "upTime": "2017-11-24 10:54:41",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/be1e031f6bbb035be687c7ae8b0879789fdd0b24.jpg",
+        "info": "虎扑11月24日讯 今天，篮网球员林书豪在Instagram上传了一张自己与侄子杰登的合照（见新闻配图）。",
+        "urls": {
+            "id": 28,
+            "voice_url": "https://voice.hupu.com/nba/2228890.html",
+            "bbs_url": "https://bbs.hupu.com/20799693.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228889.html",
+        "id": "2228889",
+        "title": "周琦：在美国的第一个感恩节，谢谢大家对我的支持",
+        "upTime": "2017-11-24 10:48:43",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/3983d79d76f9b6bf6e91835ae21aa44763c54b9d.jpg",
+        "info": "虎扑11月24日讯 火箭球员周琦刚刚更新了自己的Instagram，发布了一张自己与友人庆祝感恩节的照片。",
+        "urls": {
+            "id": 29,
+            "voice_url": "https://voice.hupu.com/nba/2228889.html",
+            "bbs_url": "https://bbs.hupu.com/20799637.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228885.html",
+        "id": "2228885",
+        "title": "凯尔-洛瑞：尼克斯在第三节比我们更优秀",
+        "upTime": "2017-11-24 10:45:30",
+        "source": "Canoe",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/10a99a4b07758f408f9d7ffcae68377236960c34.jpg",
+        "info": "虎扑11月24日讯 猛龙昨日在客场被尼克斯逆转，对于本场比赛凯尔-洛瑞认为球队在第三节表现不够出色。",
+        "urls": {
+            "id": 30,
+            "voice_url": "https://voice.hupu.com/nba/2228885.html",
+            "bbs_url": "https://bbs.hupu.com/20799608.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228882.html",
+        "id": "2228882",
+        "title": "利拉德本赛季为努尔基奇送出53次助攻，全联盟队友间最多",
+        "upTime": "2017-11-24 10:36:45",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/3aeaaac220283d1aa163ea82adfd3d53a047bc19.jpg",
+        "info": "虎扑11月24日讯 NBA记者John Schuhmann今天更新了自己的推特，发布了截至美国时间2017年11月22日，本赛季队友间送出助攻最多的组合排名。",
+        "urls": {
+            "id": 31,
+            "voice_url": "https://voice.hupu.com/nba/2228882.html",
+            "bbs_url": "https://bbs.hupu.com/20799544.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228879.html",
+        "id": "2228879",
+        "title": "布里安特-韦伯：就是做我自己，让球队变得更好",
+        "upTime": "2017-11-24 10:31:00",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/a25ed7d4bab2f6eb52f14df1d699b200af9aeefe.jpg",
+        "info": "虎扑11月24日讯 布里安特-韦伯昨日被火箭从发展联盟召回，他称自己已经准备好了。",
+        "urls": {
+            "id": 32,
+            "voice_url": "https://voice.hupu.com/nba/2228879.html",
+            "bbs_url": "https://bbs.hupu.com/20799512.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228877.html",
+        "id": "2228877",
+        "title": "利文斯顿谈韦斯特：我们都叫他本杰明-巴顿",
+        "upTime": "2017-11-24 10:30:38",
+        "source": "旧金山纪事报",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/59525409bf5eaac80843dbf8aa37d84ce7c9f6d8.png",
+        "info": "虎扑11月24日讯 据《旧金山纪事报》记者Connor Letourneau报道，在生涯第15个赛季，大卫-韦斯特非但没有下滑，他的表现反而更好了。",
+        "urls": {
+            "id": 33,
+            "voice_url": "https://voice.hupu.com/nba/2228877.html",
+            "bbs_url": "https://bbs.hupu.com/20799503.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228875.html",
+        "id": "2228875",
+        "title": "巴图姆随队前往客场，明日能否出战尚不确定",
+        "upTime": "2017-11-24 10:24:13",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/1826c9ab6e1b7dca99a9a2956e3d368eab4bd047.jpg",
+        "info": "虎扑11月24日讯 在昨日黄蜂与奇才的比赛中，黄蜂球员尼古拉斯-巴图姆在比赛中撞伤左肘，赛后被诊断为尺神经挫伤。今日黄蜂公关在推特上表示，巴图姆已经随队前往客场，但明日能否出战尚未确定。",
+        "urls": {
+            "id": 34,
+            "voice_url": "https://voice.hupu.com/nba/2228875.html",
+            "bbs_url": "https://bbs.hupu.com/20799463.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228874.html",
+        "id": "2228874",
+        "title": "KD妈妈谈雷勇大战：很多宣传都没必要，太过了",
+        "upTime": "2017-11-24 10:24:00",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/c54126cf4e1d3c232466887978cded3b95429d0e.png",
+        "info": "虎扑11月24日讯 根据NBA记者Chris Haynes报道，勇士昨天客场91-108不敌雷霆。勇士前锋凯文-杜兰特和他的母亲Wanda都认为围绕杜兰特和拉塞尔-威斯布鲁克的宣传已经过分了。",
+        "urls": {
+            "id": 35,
+            "voice_url": "https://voice.hupu.com/nba/2228874.html",
+            "bbs_url": "https://bbs.hupu.com/20799459.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228871.html",
+        "id": "2228871",
+        "title": "快船官方晒小乔丹恶搞图：让我们来吃吧",
+        "upTime": "2017-11-24 10:15:52",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/78a3fe31a4918900596aa08ffc9e31ce84e07d84.jpg",
+        "info": "虎扑11月24日讯 今天，快船官方在Instagram上传了一张快船球员德安德烈-乔丹手拿两只烤火鸡的恶搞图（见新闻配图）祝大家感恩节快乐。",
+        "urls": {
+            "id": 36,
+            "voice_url": "https://voice.hupu.com/nba/2228871.html",
+            "bbs_url": "https://bbs.hupu.com/20799390.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228870.html",
+        "id": "2228870",
+        "title": "威斯布鲁克赞普雷斯蒂：他做得非常之好",
+        "upTime": "2017-11-24 10:15:45",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/8d55b0e8c77b13512235d62206b15bf9e608c920.png",
+        "info": "虎扑11月24日讯 雷霆控卫拉塞尔-威斯布鲁克在接受采访时夸赞了总经理萨姆-普雷斯蒂在休赛期的一系列操作。",
+        "urls": {
+            "id": 37,
+            "voice_url": "https://voice.hupu.com/nba/2228870.html",
+            "bbs_url": "https://bbs.hupu.com/20799389.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228869.html",
+        "id": "2228869",
+        "title": "森林狼末节每百回合净负15.4分，联盟最多",
+        "upTime": "2017-11-24 10:14:36",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/368f64c78baf97f55d8a329e9aab46ce3497d9c9.jpg",
+        "info": "虎扑11月24日讯 根据森林狼记者Jace Frederick的统计，森林狼本赛季在第四节平均每100个回合要输给对手15.4分，联盟最高。比倒数第二名要多了整整6分。",
+        "urls": {
+            "id": 38,
+            "voice_url": "https://voice.hupu.com/nba/2228869.html",
+            "bbs_url": "https://bbs.hupu.com/20799380.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228868.html",
+        "id": "2228868",
+        "title": "里弗斯谈结束连败：赛前告诉队员们要心存感恩",
+        "upTime": "2017-11-24 10:13:22",
+        "source": "洛杉矶时报",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/f3c2dbc97cca96bd0825f453e22f51c0e98c57d3.jpg",
+        "info": "虎扑11月24日讯 快船昨日客场击败老鹰，结束了自己的9连败。对于本场比赛，快船主教练道格-里弗斯和布雷克-格里芬也发表了自己的看法。",
+        "urls": {
+            "id": 39,
+            "voice_url": "https://voice.hupu.com/nba/2228868.html",
+            "bbs_url": "https://bbs.hupu.com/20799372.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228867.html",
+        "id": "2228867",
+        "title": "奥尼尔晒照接受蓄须挑战",
+        "upTime": "2017-11-24 10:13:18",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/d00afd73d3854fd59f22388448203c0ba8db949d.jpg",
+        "info": "虎扑11月24日讯 今天，NBA名宿沙奎尔-奥尼尔在Instagram上发布了一张自己的照片，宣布接受蓄须挑战。蓄须活动的主旨是为了提高人们对男性健康，比如前列腺癌等疾病的关注，也有人参加活动是为了好玩或者比赛。",
+        "urls": {
+            "id": 40,
+            "voice_url": "https://voice.hupu.com/nba/2228867.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228866.html",
+        "id": "2228866",
+        "title": "保罗：能回馈这些家庭很棒，他们一直在支持我们",
+        "upTime": "2017-11-24 10:11:00",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/d445bbb0f2cf6befded728232c979a40668f375c.jpg",
+        "info": "虎扑11月24日讯 火箭球星克里斯-保罗和他的基金会还有火箭今日在火箭主场为500多人送去了感恩节晚餐，这些人之前都是飓风的受害者。",
+        "urls": {
+            "id": 41,
+            "voice_url": "https://voice.hupu.com/nba/2228866.html",
+            "bbs_url": "https://bbs.hupu.com/20799355.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228865.html",
+        "id": "2228865",
+        "title": "麦科勒姆谈14中1：不经历风雨怎么见彩虹",
+        "upTime": "2017-11-24 10:06:35",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/3b3cc0d8a52dcea5a41db7f5d956594c0ae60347.jpg",
+        "info": "虎扑11月24日讯 一位推特网名为@juustkyle的网友之前在推特上表示，开拓者球员CJ-麦科勒姆不会对自己北京时间昨天比赛中14投1中的表现心存感恩。",
+        "urls": {
+            "id": 42,
+            "voice_url": "https://voice.hupu.com/nba/2228865.html",
+            "bbs_url": "https://bbs.hupu.com/20799329.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228863.html",
+        "id": "2228863",
+        "title": "考特尼-李：教练昨天在中场休息时刻狠批了我们",
+        "upTime": "2017-11-24 10:01:41",
+        "source": "The Score",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/61a5ef57074db6fc6f32962ec3ebea2148c5be83.png",
+        "info": "虎扑11月24日讯 据NBA记者Ian Begley报道，在尼克斯于昨天打出一波28-0的攻势15分钟之前，尼克斯更衣室内发生了短暂的争吵。主教练杰夫-霍纳塞克十分不满队员在防守端的努力，他并不怯于表达出他的这一想法。",
+        "urls": {
+            "id": 43,
+            "voice_url": "https://voice.hupu.com/nba/2228863.html",
+            "bbs_url": "https://bbs.hupu.com/20799294.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228861.html",
+        "id": "2228861",
+        "title": "媒体晒出保罗-乔治2012-13赛季投篮热图",
+        "upTime": "2017-11-24 09:59:43",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/7241e75ed4b9c983181a7a865892bc83fbee35ab.jpg",
+        "info": "虎扑11月24日讯 美国媒体StatMuse今日在推特上发布了一张雷霆球员保罗-乔治2012-13赛季的投篮热图（见新闻配图）。图中显示，热图区域颜色越深代表投篮命中率越高于联盟平均水平，色块越大代表出手次数越多。",
+        "urls": {
+            "id": 44,
+            "voice_url": "https://voice.hupu.com/nba/2228861.html",
+            "bbs_url": "https://bbs.hupu.com/20799278.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228860.html",
+        "id": "2228860",
+        "title": "费舍尔：《与星共舞》的制片人该给科比打个电话",
+        "upTime": "2017-11-24 09:59:00",
+        "source": "TMZ体育",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/78e11ac7acda959b118eb3e8c6b2f3b4f1d63a0b.jpg",
+        "info": "虎扑11月24日讯 根据TMZ体育的报道，随着《与星共舞》下一季将做一个全部体育主题的竞赛，前湖人后卫德里克-费舍尔表示，科比-布莱恩特的名字不断被提及。",
+        "urls": {
+            "id": 45,
+            "voice_url": "https://voice.hupu.com/nba/2228860.html",
+            "bbs_url": "https://bbs.hupu.com/20799272.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228858.html",
+        "id": "2228858",
+        "title": "特里斯坦-汤普森和杰-克劳德昨日赛后现身夜店",
+        "upTime": "2017-11-24 09:50:00",
+        "source": "TMZ体育",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/802755b2c9bd0acf11833115843c1c471e932ed0.jpg",
+        "info": "虎扑11月24日讯 根据TMZ体育的报道，骑士的特里斯坦-汤普森和杰-克劳德在昨日骑士战胜篮网的赛后现身克利夫兰的Magnolia夜店，当时的时间是凌晨2点。",
+        "urls": {
+            "id": 46,
+            "voice_url": "https://voice.hupu.com/nba/2228858.html",
+            "bbs_url": "https://bbs.hupu.com/20799207.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228855.html",
+        "id": "2228855",
+        "title": "斯科特：换我的话会告诉拉瓦尔，闭嘴坐好",
+        "upTime": "2017-11-24 09:41:59",
+        "source": "TMZ体育",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/bc22c0b67e648f109ec1ed9d923962884da09600.png",
+        "info": "虎扑11月24日讯 前湖人主教练拜伦-斯科特在接受TMZ体育采访时被问到了拉瓦尔-鲍尔不久前对湖人主教练卢克-沃顿的评价。",
+        "urls": {
+            "id": 47,
+            "voice_url": "https://voice.hupu.com/nba/2228855.html",
+            "bbs_url": "https://bbs.hupu.com/20799152.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228854.html",
+        "id": "2228854",
+        "title": "麦基与女儿合影：你就是我生命中的一束阳光",
+        "upTime": "2017-11-24 09:41:54",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/033c74e3637163cfa9e14a2dadd45cd08bdc7742.jpg",
+        "info": "虎扑11月24日讯 勇士球员贾维尔-麦基今天更新了自己的Instagram，发布了一张自己与女儿的合影。",
+        "urls": {
+            "id": 48,
+            "voice_url": "https://voice.hupu.com/nba/2228854.html",
+            "bbs_url": "https://bbs.hupu.com/20799151.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228851.html",
+        "id": "2228851",
+        "title": "变成火鸡！坎特晒趣图庆祝感恩节",
+        "upTime": "2017-11-24 09:36:45",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/91da4f23407d3334a492dfc452a6288772ddfca1.jpg",
+        "info": "虎扑11月24日讯 今天，尼克斯球员埃内斯-坎特在Instagram上发布了一张将自己的头P在火鸡身上的趣图，以庆祝感恩节的到来。",
+        "urls": {
+            "id": 49,
+            "voice_url": "https://voice.hupu.com/nba/2228851.html",
+            "bbs_url": "https://bbs.hupu.com/20799108.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228850.html",
+        "id": "2228850",
+        "title": "拉文：感谢我的家人总是陪伴着我",
+        "upTime": "2017-11-24 09:33:54",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/05b5924d14e9fc6266f450e16e1ce584059b4024.jpg",
+        "info": "虎扑11月24日讯 今天，公牛球员扎克-拉文在Instagram上传了一张自己与家人的合照（见新闻配图）。",
+        "urls": {
+            "id": 50,
+            "voice_url": "https://voice.hupu.com/nba/2228850.html",
+            "bbs_url": "https://bbs.hupu.com/20799091.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228849.html",
+        "id": "2228849",
+        "title": "莫宁谈赠送晚餐：让孩子们明白感恩节的真正意义",
+        "upTime": "2017-11-24 09:32:17",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/a53e973f73c7444970cc7d10bd811bd92cd6429b.jpg",
+        "info": "虎扑11月24日讯 前热火球星阿隆佐-莫宁在感恩节期间拜访了十个家庭，为他们送去了感恩节晚餐。这是莫宁家庭基金（Mourning Family Foundation）的第33个感恩节，已经在当地地区分发了几百份的晚餐。当地组织The Overtown Youth Center和Publix以及FedEx帮助莫宁一起分发了几百份的晚餐，保证有需要的家庭会有一个丰盛的晚餐。",
+        "urls": {
+            "id": 51,
+            "voice_url": "https://voice.hupu.com/nba/2228849.html",
+            "bbs_url": "https://bbs.hupu.com/20799080.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228848.html",
+        "id": "2228848",
+        "title": "巴莫特晒自己为当地居民分发感恩节食物的照片",
+        "upTime": "2017-11-24 09:30:13",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/7762a3ddd178f3d48ea4d1b8edc19978d371d196.jpg",
+        "info": "虎扑11月24日讯 火箭球员卢克-理查德-巴莫特今天更新了自己的Instagram，发布了一组自己参加当地感恩节活动的照片。",
+        "urls": {
+            "id": 52,
+            "voice_url": "https://voice.hupu.com/nba/2228848.html",
+            "bbs_url": "https://bbs.hupu.com/20799066.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228843.html",
+        "id": "2228843",
+        "title": "奇才官方发布波特参加感恩节公益活动的图集",
+        "upTime": "2017-11-24 09:21:04",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/12536b479cd0623e44847403e0300f6931352620.jpg",
+        "info": "虎扑11月24日讯 今天，奇才官方在Instagram上传了一组奇才球员奥托-波特参加感恩节公益活动的图集（见新闻配图）。",
+        "urls": {
+            "id": 53,
+            "voice_url": "https://voice.hupu.com/nba/2228843.html",
+            "bbs_url": "https://bbs.hupu.com/20799012.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228841.html",
+        "id": "2228841",
+        "title": "甜蜜！威斯布鲁克妻子晒全家福照片",
+        "upTime": "2017-11-24 09:20:33",
+        "source": "Instagram",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/28a7b2770ee35df9ae1dbcff3396f73d12bd505f.jpg",
+        "info": "虎扑11月24日讯 雷霆球员拉塞尔-威斯布鲁克的妻子Nina Westbrook今天更新了自己的Instagram，发布了一张一家三口的合影。",
+        "urls": {
+            "id": 54,
+            "voice_url": "https://voice.hupu.com/nba/2228841.html",
+            "bbs_url": "https://bbs.hupu.com/20799009.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228840.html",
+        "id": "2228840",
+        "title": "麦科勒姆发布自己与女友的合影：感恩有你",
+        "upTime": "2017-11-24 09:18:52",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/9d22816a5ac5fee42acfe69d1f75d0d9f59d1a50.jpg",
+        "info": "虎扑11月24日讯 今天是美国的传统节日感恩节，开拓者后卫CJ-麦科勒姆在个人社交媒体主页上发布了一张自己与女友的合影。",
+        "urls": {
+            "id": 55,
+            "voice_url": "https://voice.hupu.com/nba/2228840.html",
+            "bbs_url": "https://bbs.hupu.com/20798994.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228835.html",
+        "id": "2228835",
+        "title": "特雷沃-布克可能出战下一场与开拓者的比赛",
+        "upTime": "2017-11-24 09:10:18",
+        "source": "Twitter",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/70b3444ac6a80c3efb2c6886a19c25c36f237223.jpg",
+        "info": "虎扑11月24日讯 篮网官方今日宣布，受左脚踝扭伤困扰的球队前锋特雷沃-布克可能出战（probable，75%出战可能）球队北京时间11月25日与开拓者的比赛。",
+        "urls": {
+            "id": 56,
+            "voice_url": "https://voice.hupu.com/nba/2228835.html",
+            "bbs_url": "https://bbs.hupu.com/20798943.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228834.html",
+        "id": "2228834",
+        "title": "利文斯顿晒一家三口合影：永远心存感恩",
+        "upTime": "2017-11-24 09:01:56",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/e3b05f543eb95723b41acf7c54a751e6adcd1b51.jpg",
+        "info": "虎扑11月24日讯 今天，勇士球员肖恩-利文斯顿在个人社交媒体主页上发布了一组一家三口的合影，以庆祝感恩节的到来。",
+        "urls": {
+            "id": 57,
+            "voice_url": "https://voice.hupu.com/nba/2228834.html",
+            "bbs_url": "https://bbs.hupu.com/20798894.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228833.html",
+        "id": "2228833",
+        "title": "阿尔德里奇谈球队现状：我们会团结一心去战斗",
+        "upTime": "2017-11-24 09:01:50",
+        "source": "圣安东尼奥新闻快报",
+        "thumb": "https://c1.hoopchina.com.cn/uploads/star/event/images/171124/2bba006346c0e3a154002204b968deb3e8f082e2.jpg",
+        "info": "虎扑11月24日讯 马刺昨日在客场惨败于鹈鹕，对于本场比赛马刺球员和教练都发表了看法。",
+        "urls": {
+            "id": 58,
+            "voice_url": "https://voice.hupu.com/nba/2228833.html",
+            "bbs_url": "https://bbs.hupu.com/20798892.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228832.html",
+        "id": "2228832",
+        "title": "多诺万-米切尔展示自己与家人的合照：感恩",
+        "upTime": "2017-11-24 08:58:18",
+        "source": "Instagram",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/7d499d1895c3370b3b701e58e9edda0d39437852.jpg",
+        "info": "虎扑11月24日讯 今天，爵士球员多诺万-米切尔在Instagram上传了一组自己与家人的合照（见新闻配图）。",
+        "urls": {
+            "id": 59,
+            "voice_url": "https://voice.hupu.com/nba/2228832.html",
+            "bbs_url": "https://bbs.hupu.com/20798878.html"
+        }
+    },
+    {
+        "href": "https://voice.hupu.com/nba/2228830.html",
+        "id": "2228830",
+        "title": "凯尔特人官方晒球队参加当地感恩节活动的照片",
+        "upTime": "2017-11-24 08:49:32",
+        "source": "Twitter",
+        "thumb": "https://c2.hoopchina.com.cn/uploads/star/event/images/171124/b11e512aef154601a8f637025a3fff52b81ecaf9.jpg",
+        "info": "虎扑11月24日讯 凯尔特人官方今天更新了推特，发布了一组球队出席当地感恩节活动的照片。",
+        "urls": {
+            "id": 60,
+            "voice_url": "https://voice.hupu.com/nba/2228830.html",
+            "bbs_url": "https://bbs.hupu.com/20798839.html"
+        }
     }
 ]

@@ -14,9 +14,9 @@ import News from '@/components/pages/News'
 import Issue from '@/components/pages/Issue'
 import List from '@/components/pages/List'
 import More from '@/components/pages/More'
+import NBANews from '@/components/pages/Details/nba'
 
 const routes = [
-  
   {
     path: '/',
     redirect: '/News',
@@ -40,6 +40,11 @@ const routes = [
     path: '/More',
     name: 'More',
     component: More
+  },
+  {
+    path: '/:id',
+    name: 'Detail-NBA',
+    component: NBANews
   }
 ]
 
