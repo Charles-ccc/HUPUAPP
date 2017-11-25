@@ -25,7 +25,7 @@
                 <mt-tab-container-item id="1">
                     <ul class="news-list">
                         <li v-for="(news,index) in newsList" :key="index" >
-                            <router-link :to="{name:'Detail-NBA', params: {id: news.id}}" class="newLi">
+                            <router-link :to="{name:'Detail-NBA', params: {id: news.urls.bbs_url}}" class="newLi">
                                 <div class="newImg">
                                     <img :src="news.thumb" alt=""/>
                                 </div>
@@ -39,7 +39,20 @@
                     </ul>
                 </mt-tab-container-item>
                 <mt-tab-container-item id="2">
-
+                    <ul class="news-list">
+                        <li v-for="(cbaNews,index) in cbaNewsList" :key="index" >
+                            <router-link :to="{name:'Detail-NBA',params: {id: cbaNews.id}}"  class="newLi">
+                                <div class="newImg">
+                                    <img :src="cbaNews.thumb" alt=""/>
+                                </div>
+                                <div class="newsWord">
+                                    <p class="newsTitle">{{cbaNews.title}}</p>
+                                    <p class="newsInfo">{{cbaNews.info}}</p>
+                                    <p class="newsTime">{{cbaNews.upTime}}</p>
+                                </div>
+                            </router-link>
+                        </li>
+                    </ul>
                 </mt-tab-container-item>
                 <mt-tab-container-item id="3">
 
@@ -75,29 +88,51 @@ Vue.component(Tabbar.name, Tabbar);
 Vue.component(TabItem.name, TabItem);
 
 export default {
-  name: 'news',
-  data(){
-    return{
-      newsList: [],
-      selected:"1",
-      bbs_id: []
-    }
-  },
-  created:function(){
-      axios.get('http://localhost:8085/api/data')
-      .then(res=>{
-        //   console.log(res.data.data);
-          this.newsList = res.data.data
-        // this.bbs_id = this.newsList.urls.bbs_url.split("").slice(21, 29).join("")
-        // console.log(this.newsList.each((item, idx) => idx.urls.bbs_url.split("").slice(21, 29).join("")))
+    name: 'news',
+    data(){
+        return{
+        newsList: [],
+        selected:"1",
+        bbs_id: [],
+        cbaNewsList: []
+        }
+    },
+    created:function(){
+        axios.get('http://localhost:8085/api/nba')
+        .then(res=>{
+            // console.log(res.data);
+            this.newsList = res.data.api_nba;
 
-        this.newsList.forEach(element => {
-            console.log(element.urls.bbs_url.split("").slice(21, 29).join(""))
+            const arr = this.newsList;
+            for(let i = 0; i < arr.length;i++) {
+                if(arr[i].urls.bbs_url) {
+                    //arr[i].urls.bbs_url = arr[i].urls.bbs_url.split("").slice(21, 29).join("")
+                    const nba_id = arr[i].urls.bbs_url.split("").slice(21, 29).join("");
+                    //const urls = arr[i].urls
+                    arr[i].push({
+                        bbs_id:nba_id
+                    });
+                    console.log(bbs_id);
+                    // console.log(bbs_id);
+                }else {
+                    arr[i].urls.bbs_url = ''
+                }
+            }
+        })
+        .catch(error=>{
+            //   alert("他强任他强……")
+            console.log(error)
         });
-      })
-      .catch(error=>{
-          alert("他强任他强……")
-      })
+
+    //   //cba
+    //     axios.get('http://localhost:8085/api/cba')
+    //     .then(res=>{
+    //         console.log(res);
+    //         this.cbaNewsList = res.data.api_cba
+    //     })
+    //     .catch(error=>{
+    //         //   alert("我干我的羊……")
+    //     })
   }
 }
 </script>

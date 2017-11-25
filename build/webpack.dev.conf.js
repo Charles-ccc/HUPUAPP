@@ -9,7 +9,8 @@ const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
 const portfinder = require('portfinder')
 const express = require('express')
 const app = express()
-const api_data = require('../data.json')
+const api_nba = require('../nba.json')
+const api_cba = require('../cba.json')
 const apiRoutes = express.Router()
 
 app.use('/api', apiRoutes)
@@ -41,12 +42,16 @@ const devWebpackConfig = merge(baseWebpackConfig, {
       poll: config.dev.poll,
     },
     before(app) {
-      app.get('/api/data', (req,res) => {
+      app.get('/api/nba', (req,res) => {
         res.json({
-          errno: 0,
-          data: api_data
+          api_nba
         })
-      })
+      }),
+        app.get('/api/cba', (req, res) => {
+          res.json({
+            api_cba
+          })
+        })
     }
   },
   plugins: [
