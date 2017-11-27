@@ -5,7 +5,7 @@
 </template>
 
 <style scoped>
-  .List{padding-top:10vh;padding-bottom:8vh;}
+  .List{padding-top:8vh;padding-bottom:8vh;}
 </style>
 
 <script>

@@ -18,8 +18,8 @@
             <mt-navbar v-model="selected" v-bind:fixed="true">
                 <mt-tab-item id="1">NBA</mt-tab-item>
                 <mt-tab-item id="2">CBA</mt-tab-item>
-                <mt-tab-item id="3">路人王</mt-tab-item>
-                <mt-tab-item id="4">关注</mt-tab-item>
+                <!-- <mt-tab-item id="3">路人王</mt-tab-item>
+                <mt-tab-item id="4">关注</mt-tab-item> -->
             </mt-navbar>
             <mt-tab-container v-model="selected">
                 <mt-tab-container-item id="1">
@@ -54,12 +54,12 @@
                         </li>
                     </ul>
                 </mt-tab-container-item>
-                <mt-tab-container-item id="3">
+                <!-- <mt-tab-container-item id="3">
 
                 </mt-tab-container-item>
                 <mt-tab-container-item id="4">
 
-                </mt-tab-container-item>
+                </mt-tab-container-item> -->
             </mt-tab-container>
         </div>
     </div>
@@ -106,13 +106,11 @@ export default {
             const arr = this.newsList;
             for(let i = 0; i < arr.length;i++) {
                 if(arr[i].urls.bbs_url) {
-                    //arr[i].urls.bbs_url = arr[i].urls.bbs_url.split("").slice(21, 29).join("")
-                    const nba_id = arr[i].urls.bbs_url.split("").slice(21, 29).join("");
-                    //const urls = arr[i].urls
-                    arr[i].push({
-                        bbs_id:nba_id
-                    });
-                    console.log(bbs_id);
+                    arr[i].urls.bbs_url = arr[i].urls.bbs_url.split("").slice(21, 29).join("")
+                    // const nba_id = arr[i].urls.bbs_url.split("").slice(21, 29).join("");
+                    // arr[i].push({
+                    //     bbs_id:nba_id
+                    // });
                     // console.log(bbs_id);
                 }else {
                     arr[i].urls.bbs_url = ''
@@ -120,19 +118,19 @@ export default {
             }
         })
         .catch(error=>{
-            //   alert("他强任他强……")
-            console.log(error)
+             alert("他强任他强……")
+            // console.log(error)
         });
 
     //   //cba
-    //     axios.get('http://localhost:8085/api/cba')
-    //     .then(res=>{
-    //         console.log(res);
-    //         this.cbaNewsList = res.data.api_cba
-    //     })
-    //     .catch(error=>{
-    //         //   alert("我干我的羊……")
-    //     })
+        axios.get('http://localhost:8085/api/cba')
+        .then(res=>{
+            console.log(res);
+            this.cbaNewsList = res.data.api_cba
+        })
+        .catch(error=>{
+            //   alert("我干我的羊……")
+        })
   }
 }
 </script>
